@@ -8,3 +8,4 @@
 ## [Projeto 6](https://jotinha085.github.io/Projeto6-Web-I/)
 ## [Projeto 7](https://jotinha085.github.io/Projeto7-Web-I/) 
 
+#### Dupla: João Victor Martins Costa e José Luis da Silva Baltazar
